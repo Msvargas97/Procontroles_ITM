@@ -1,2 +1,2 @@
 # Procontroles_ITM
-Aplicaci 
+Aplicación con soporte en Android versión 2018
